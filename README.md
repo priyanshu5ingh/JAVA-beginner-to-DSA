@@ -2,7 +2,7 @@
 
 This repository documents my journey learning Java, starting from the basics and progressing towards Data Structures and Algorithms (DSA). I will be pushing all the Java programs I write during this learning process to this repository.
 
-![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java Logo" width="150" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## Repository Structure 📂
 
