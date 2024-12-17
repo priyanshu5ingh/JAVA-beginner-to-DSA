@@ -17,7 +17,7 @@ public class Problem1 {
         System.out.print(" total marks of the student out of 500 is ");
         System.out.println(sum);
         float average;
-        average = (sum/5);
+        average = ((float) sum /5);
         System.out.print("the percentage of the student is :");
         System.out.println(average);
 
